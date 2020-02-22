@@ -13,4 +13,4 @@ The Panorama directory implements image stitching that can generate panorama for
 2) Run the ipython notebooks present in the respective folders to see the results.
 
 
-Please feel free to use the files.
+Please feel free to use the files if needed.

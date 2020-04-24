@@ -3,7 +3,9 @@ In this repository I will be implementing various techniques which are commonly 
 
 In the Corner Detection directory I have implemented Moravec corner detection algorithm and Harris corner detection algorithm.
 
-The Panorama directory implements image stitching that can generate panorama for two images.
+The Panorama directory contains implementations for image stitching that can generate panorama with two images.
+
+Optical flow and Motion Segmentaion directory contains implementations of optical flow algorithms like Lucas–Kanade and Horn–Schunck and motion segmentation techniques like simple background subtraction, non-adaptive frame differencing, adaptive frame differencing and persistent frame differencing algorithms.
 
 # HOW TO RUN
 
